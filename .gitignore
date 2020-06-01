@@ -1,2 +1,5 @@
 *.jpg
 *.jpeg
+.ipynb_checkpoints/Pneumonia_XRay-checkpoint.ipynb
+*.hdf5
+*.h5
